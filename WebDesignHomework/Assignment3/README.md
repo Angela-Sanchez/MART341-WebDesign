@@ -8,7 +8,7 @@ This week I enjoyed watching all of the videos about the internet and learned qu
 - Website structure and how information is stored in databases and flows via the internet
 ## Markdown
 
-I really enjoy using **Markdown**. The tutorial provided in the module was actually fun for me to do. The README tutorial also helped explain why these files are important.This reminds me of my first glimpse into HTML when I was in middle school in the '90s and began to design my own websites based on these same codes. 
+I really enjoy using **Markdown**. The tutorial provided in the module was actually fun for me to do. The README tutorial also helped explain why these files are important. This reminds me of my first glimpse into HTML when I was in middle school in the '90s and began to design my own websites based on these same codes. Here is a nostalgic picture of our 90's cutting-edge technology.
 
 ![90's Computer](https://as1.ftcdn.net/v2/jpg/05/22/03/14/1000_F_522031409_ctvMwiIeQ6Y0wV0ZFmETxshqqlQT0QSo.jpg) 
 ## Visual Studio Code
