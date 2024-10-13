@@ -1,0 +1,1 @@
+This week I enjoyed learning different aspects about making a table. I was able to go online to find additional ideas on how to center and add borders to my table. The forms were a bit more difficult, and I attempted to add two different types (a search bar and a newsletter signup). I am still not sure if these were done correctly. 
