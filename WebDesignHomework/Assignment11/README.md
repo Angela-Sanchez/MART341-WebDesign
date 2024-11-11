@@ -4,8 +4,8 @@ Required Techniques (Must Have):
 
 Create a page with an external CSS style sheet - I copied over all of my pages, style sheet, and images folder.
 Add hover effects to enhance interactivity - I added hover text decoration:underline to all of my buttons for my navigation across my pages. I also added hover to underline my links throughout.
-Use an external font that is self-hosted
-Use an external font from a font library
+Use an external font that is self-hosted - I downloaded a font and really tried to get it to work for my navigation in my fonts.css folder, but could not figure out how to get it to work. I'm not sure what I did wrong. So I ended up linking it the same as the other from Google fonts.
+Use an external font from a font library - I added external fonts from Google Fonts to replace my navigation buttons at the top and h1 on all pages.
 Select at Least Three Additional Techniques:
 
 Experiment with different font styles
