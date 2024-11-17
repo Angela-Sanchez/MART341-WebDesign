@@ -2,7 +2,7 @@ This week I worked on: resources.html
 
 Select at least 6 of the following techniques to implement:
 
-Sizing – Control the width and height of elements on the page. -- I included a lot of width elements throughout my page in many different section. I changed my decorating-tools section from a table to a box.
+Sizing – Control the width and height of elements on the page. -- I included a lot of width elements throughout my page in many different sections on my style sheet. I changed my decorating-tools section from a table to a box.
 
 Overflow – Manage how content is displayed when it exceeds the element’s boundaries. -- I used the overflow:visible command for my decorating-tools box.
 
